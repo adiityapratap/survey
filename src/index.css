@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.banner_div img{
+  height: 100% !important;
+}
+.banner_div{
+  height: 300px !important;
+}
+.age-group{
+  display: flex;
+}
+.btn-primary{
+  background-color: #8FC31C !important;
+  border-color: #8FC31C !important;;
+}
