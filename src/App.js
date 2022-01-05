@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container mt-2 container-md container-sm shadow-lg p-3 mb-5 bg-body rounded">
+    <>
        <div className="row align-items-start banner_div">
        <img src="https://hospitalcatering.com.au/image/feedback.jpeg" className="img-fluid" alt="..." />
        </div>
@@ -247,7 +247,7 @@ function App() {
 				    <div className="form-row">
 					 	<div className="form-group col-sm-12">
 					<table className="table">
-            
+
   <tbody>
     <tr>
       <th scope="row">1</th>
@@ -550,7 +550,7 @@ function App() {
 </div>
     </div>
  
-</div>
+</>
 
   );
 }
