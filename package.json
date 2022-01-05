@@ -1,5 +1,6 @@
 {
   "name": "survey",
+  "homepage": "https://hospitalcatering.com.au/survey/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
