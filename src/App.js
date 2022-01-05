@@ -247,6 +247,7 @@ function App() {
 				    <div className="form-row">
 					 	<div className="form-group col-sm-12">
 					<table className="table">
+            
   <tbody>
     <tr>
       <th scope="row">1</th>
